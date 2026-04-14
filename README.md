@@ -23,6 +23,15 @@ I developed a strong interest and foundation in modelling, data-driven systems, 
 My long-term goal is to build intelligent, trustworthy data-driven systems that solve complex real-world problems across healthcare, infrastructure, and industrial domains.
 
 ---
+### 🚇 CMMT — Chennai Multi-Modal Transit Planner `Data Engineering · 2025`
+End-to-end transit planning system ingesting real **GTFS datasets** across MTC bus, Metro, and suburban rail.
+- Constructed a weighted multi-modal graph using **NetworkX**
+- Implemented a **multi-objective Pareto scoring engine** ranking routes across time, cost, distance, and CO₂ simultaneously
+- Raw data ingestion → interpretable route recommendations, in one pipeline
+
+`Python` `NetworkX` `GTFS` `Pareto Optimisation`
+
+---
 
 ## 🔬 Featured Projects
 
@@ -33,17 +42,6 @@ Predictive ML pipeline for early diagnosis of Autism Spectrum Disorder in childr
 - **99% accuracy** on test dataset
 
 `Scikit-learn` `PCA` `Neural Networks` `Clinical Interface`
-
----
-
-### 🚇 CMMT — Chennai Multi-Modal Transit Planner `Data Engineering · 2025`
-End-to-end transit planning system ingesting real **GTFS datasets** across MTC bus, Metro, and suburban rail.
-- Constructed a weighted multi-modal graph using **NetworkX**
-- Implemented a **multi-objective Pareto scoring engine** ranking routes across time, cost, distance, and CO₂ simultaneously
-- Raw data ingestion → interpretable route recommendations, in one pipeline
-
-`Python` `NetworkX` `GTFS` `Pareto Optimisation`
-
 ---
 
 ### 🔍 Fingerprint Recognition System `Computer Vision · 2023`
