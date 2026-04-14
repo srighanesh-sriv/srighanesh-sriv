@@ -24,13 +24,8 @@
 
 I'm a data-driven engineer from Chennai building systems where **mathematical rigour, domain knowledge, and real-world constraints** meet — not where they trade off against each other.
 
-B.Tech in **Electrical & Computer Engineering** (SRM IST, GPA: 9.35).  
+B.Tech in **Electrical & Computer Engineering** (SRM IST).  
 Currently a **Market Analyst at Siemens**, building automation pipelines and predictive models for railway electrification markets.
-
-My work spans:
-- 🧠 Clinical Machine Learning  
-- 🚇 Transit Data Engineering  
-- 👁️ Computer Vision  
 
 I developed a strong foundation in **modelling, data-driven systems, and statistical reasoning**, shaping my approach to prediction, inference, and intelligent decision-making.
 
@@ -121,7 +116,7 @@ Biometric pipeline with **minutiae-based feature extraction** using Python and O
 <p align="center">
 ⭐ <i>Building systems that are not only intelligent, but also meaningful and reliable in the real world</i>
 </p>
----
+
 
 <p align="center">
 <i>Open to research collaborations, data engineering projects.</i><br>
