@@ -89,6 +89,6 @@ Built Python-based automation pipelines for data acquisition and transformation 
 ---
 
 <p align="center">
-<i>Open to research collaborations, data engineering projects, and MSc opportunities in Germany.</i><br>
+<i>Open to research collaborations, data engineering projects.</i><br>
 <a href="mailto:srighanesh.sriv@gmail.com">srighanesh.sriv@gmail.com</a> · <a href="https://linkedin.com/in/srighaneshsrivathsan">LinkedIn</a>
 </p>
