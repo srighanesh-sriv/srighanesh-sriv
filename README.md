@@ -22,6 +22,7 @@ I developed a strong interest and foundation in modelling, data-driven systems, 
 
 My long-term goal is to build intelligent, trustworthy data-driven systems that solve complex real-world problems across healthcare, infrastructure, and industrial domains.
 
+## 🔬 Featured Projects
 ---
 ### 🚇 CMMT — Chennai Multi-Modal Transit Planner `Data Engineering · 2025`
 End-to-end transit planning system ingesting real **GTFS datasets** across MTC bus, Metro, and suburban rail.
@@ -32,8 +33,6 @@ End-to-end transit planning system ingesting real **GTFS datasets** across MTC b
 `Python` `NetworkX` `GTFS` `Pareto Optimisation`
 
 ---
-
-## 🔬 Featured Projects
 
 ### 🧠 ASD Early Detection in Children `Healthcare ML · 2024`
 Predictive ML pipeline for early diagnosis of Autism Spectrum Disorder in children under 2.
