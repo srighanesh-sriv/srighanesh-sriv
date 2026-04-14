@@ -1,14 +1,13 @@
 <!-- Profile README · Srighanesh A S · srighanesh-sriv -->
 
 <h1 align="center">Srighanesh A S</h1>
-<h3 align="center">Data Engineer & ML Practitioner · MSc Applicant (Germany)</h3>
+<h3 align="center">Data Engineer & ML Practitioner</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/srighaneshsrivathsan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:srighanesh.sriv@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-1D9E75?style=flat"/>
   <img src="https://img.shields.io/badge/German-A1-0F6E56?style=flat"/>
-  <img src="https://img.shields.io/badge/Open%20to-MSc%20in%20Germany-534AB7?style=flat"/>
 </p>
 
 ---
@@ -19,7 +18,9 @@ I'm a data-driven engineer from Chennai building systems where **mathematical ri
 
 B.Tech in **Electrical & Computer Engineering** (SRM IST, **9.35 GPA**). Currently a **Market Analyst at Siemens**, building automation pipelines and predictive models for railway electrification markets. My work spans clinical ML, transit data engineering, and computer vision.
 
-Actively applying for **MSc Data Science / AI programmes in Germany** — interested in computational cognitive neuroscience and interpretable ML for healthcare systems.
+I developed a strong interest and foundation in modelling, data-driven systems, and statistical reasoning, shaping my approach to prediction, inference, and intelligent decision-making.
+
+My long-term goal is to build intelligent, trustworthy data-driven systems that solve complex real-world problems across healthcare, infrastructure, and industrial domains.
 
 ---
 
@@ -74,14 +75,6 @@ Built Python-based automation pipelines for data acquisition and transformation 
 ⭐ Two Star Performer Awards within first year.
 
 **R&D Intern — Danfoss Pvt. Ltd.** *(2022)*
-
----
-
-## 🔭 Research Interests
-
-My work in clinical ML — where interpretability matters as much as accuracy — has drawn me toward **computational neuroscience and probabilistic inference**. I'm particularly interested in the research of **Prof. Dr. Dirk Ostwald** (FU Berlin) on Computational Cognitive Neuroscience.
-
-Broader interests: statistical modelling · uncertainty quantification · interpretable ML for healthcare · multi-objective optimisation
 
 ---
 
