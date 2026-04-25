@@ -15,7 +15,7 @@
 
 ---
 
-<p align="center"><i>"Physics and mathematics were never just school subjects — they were the lens through which I saw the world."</i></p>
+<p align="center"><i>"My interest in data-driven systems developed during my Probability and Statistics course, where I first understood how mathematical models can be used to interpret real-world data. This shifted my approach to engineering problems from procedural solutions to reasoning based on data, uncertainty, and inference."</i></p>
 
 ---
 
