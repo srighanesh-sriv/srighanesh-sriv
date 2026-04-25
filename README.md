@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-Electrical and Computer Engineering graduate from SRM with a strong foundation in mathematics, machine learning, and data-driven systems developed through coursework and applied projects.
+Electrical and Computer Engineering graduate with a strong foundation in mathematics, machine learning, and data-driven systems developed through coursework and applied projects.
 
 Currently working as a Data Analyst at Siemens, building data pipelines, performing analysis, and developing decision-support tools for industrial applications.
 
