@@ -122,8 +122,3 @@ Biometric pipeline with **minutiae-based feature extraction** using Python and O
 <p align="center">
 ⭐ <i>Building systems that are not only intelligent, but also meaningful and reliable in the real world</i>
 </p>
-
-
-<p align="center">
-<i>Open to research collaborations, data engineering projects.</i><br>
-</p>
