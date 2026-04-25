@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-1D9E75?style=flat"/>
-  <img src="https://img.shields.io/badge/German-A1-0F6E56?style=flat"/>
 </p>
 
 ---
