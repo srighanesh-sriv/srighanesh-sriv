@@ -96,10 +96,8 @@ Biometric pipeline with **minutiae-based feature extraction** using Python and O
 ## 🏆 Achievements
 
 - ⭐ Star Performer Award — Siemens (2024 & 2025)  
-- 🥇 National recognition — Regional Science Exhibition  
-- 🟡 HackerRank SQL — 5⭐  
+- 🥇 HackerRank SQL — 5⭐  
 - 🎓 Performance Scholarship — SRM IST (2021–2023)  
-- 📊 GPA: **9.35**
 
 ---
 
