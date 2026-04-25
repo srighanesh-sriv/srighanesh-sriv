@@ -72,9 +72,7 @@ Biometric pipeline with **minutiae-based feature extraction** using Python and O
 
 ---
 
-## 🛠 Skills
-
-## 🛠️ Skills
+## 🛠 Tech Stack
 
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -91,7 +89,6 @@ Biometric pipeline with **minutiae-based feature extraction** using Python and O
 ---
 
 ### ⚙️ Data Engineering & Analysis
-![Data Pipelines](https://img.shields.io/badge/Data-Pipelines-grey)
 ![Pandas](https://img.shields.io/badge/Pandas-Data-black)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific-blue)
 ![SQL](https://img.shields.io/badge/SQL-Query-lightgrey)
