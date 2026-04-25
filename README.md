@@ -1,7 +1,7 @@
 <!-- Profile README · Srighanesh A S · srighanesh-sriv -->
 
-<h1 align="center">Srighanesh A S</h1>
-<h3 align="center">Data Engineer & ML Practitioner</h3>
+<h1 align="center">Hi, I'm Srighanesh A S 👋</h1>
+<h3 align="center">Data Science-focused engineer with strong foundations in mathematics, machine learning, and data-driven systems. Interested in building reliable and scalable solutions across engineering and healthcare domains.</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/srighaneshsrivathsan">
@@ -21,9 +21,6 @@
 ---
 
 ## 🧠 About Me
-
-Hi, I'm Srighanesh A S 👋
-Data Science-focused engineer with strong foundations in mathematics, machine learning, and data-driven systems. Interested in building reliable and scalable solutions across engineering and healthcare domains.
 
 B.Tech in **Electrical & Computer Engineering** (SRM IST).  
 Currently a **Market Analyst at Siemens**, building automation pipelines and predictive models for railway electrification markets.
