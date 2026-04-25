@@ -73,6 +73,14 @@ Biometric pipeline with **minutiae-based feature extraction** using Python and O
 
 ---
 
+📊 Selected Work
+
+- 📌 Built end-to-end ML pipeline for ASD detection with model comparison and evaluation  
+- 📌 Designed multi-modal transport optimization system using real-world GTFS data  
+- 📌 Developed data pipelines and dashboards for industrial applications at Siemens
+
+---
+
 ## 🛠 Skills
 
 | Area | Tools |
