@@ -126,5 +126,4 @@ Biometric pipeline with **minutiae-based feature extraction** using Python and O
 
 <p align="center">
 <i>Open to research collaborations, data engineering projects.</i><br>
-<a href="mailto:srighanesh.sriv@gmail.com">srighanesh.sriv@gmail.com</a> · <a href="https://linkedin.com/in/srighaneshsrivathsan">LinkedIn</a>
 </p>
