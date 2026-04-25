@@ -93,22 +93,6 @@ Biometric pipeline with **minutiae-based feature extraction** using Python and O
 
 ---
 
-## 💼 Experience
-
-**Market Analyst — Siemens**  
-*Jul 2024 – Present · Chennai*
-
-- Built Python-based automation pipelines for large-scale industrial datasets  
-- Developed Power BI dashboards and predictive models for Go/No-Go decisions  
-- ⭐ Awarded **Star Performer (2× within first year)**  
-
----
-
-**R&D Intern — Danfoss Pvt. Ltd.**  
-*2022*
-
----
-
 ## 🏆 Achievements
 
 - ⭐ Star Performer Award — Siemens (2024 & 2025)  
