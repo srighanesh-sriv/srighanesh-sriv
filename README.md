@@ -22,7 +22,8 @@
 
 ## 🧠 About Me
 
-I'm a data-driven engineer from Chennai building systems where **mathematical rigour, domain knowledge, and real-world constraints** meet — not where they trade off against each other.
+Hi, I'm Srighanesh A S 👋
+Data Science-focused engineer with strong foundations in mathematics, machine learning, and data-driven systems. Interested in building reliable and scalable solutions across engineering and healthcare domains.
 
 B.Tech in **Electrical & Computer Engineering** (SRM IST).  
 Currently a **Market Analyst at Siemens**, building automation pipelines and predictive models for railway electrification markets.
