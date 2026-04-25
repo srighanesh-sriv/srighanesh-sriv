@@ -1,7 +1,7 @@
 <!-- Profile README · Srighanesh A S · srighanesh-sriv -->
 
 <h1 align="center">Hi, I'm Srighanesh A S 👋</h1>
-<h3 align="center">Data Science-focused engineer with a strong foundation in mathematics, machine learning, and data-driven systems. Experience in building end-to-end pipelines and applying statistical and optimization techniques to real-world problems in healthcare, transportation, and industrial domains.</h3>
+<h3 align="center">Data Science-focused engineer| Statistical Learning, Optimization, Scalable Data Systems.</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/srighaneshsrivathsan">
