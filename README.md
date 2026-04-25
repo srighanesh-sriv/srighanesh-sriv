@@ -74,14 +74,42 @@ Biometric pipeline with **minutiae-based feature extraction** using Python and O
 
 ## 🛠 Skills
 
-| Area | Tools |
-|------|------|
-| **Programming** | Python · SQL · Excel VBA |
-| **ML & Statistics** | Scikit-learn · PCA · Random Forest · SVM · Neural Networks · Cross-validation |
-| **Data Analysis** | NumPy · Pandas · Matplotlib · Seaborn · Jupyter |
-| **BI & Automation** | Power BI · Python scripting · Web scraping |
-| **Graph & Transport** | NetworkX · GTFS · Pareto optimisation |
-| **Languages** | Tamil (native) · English (C1) · German (A1) |
+## 🛠️ Skills
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
+
+---
+
+### 🤖 Machine Learning
+![Supervised Learning](https://img.shields.io/badge/Supervised-Learning-blue)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised-Learning-blue)
+![Neural Networks](https://img.shields.io/badge/Neural-Networks-blue)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
+
+---
+
+### ⚙️ Data Engineering & Analysis
+![Data Pipelines](https://img.shields.io/badge/Data-Pipelines-grey)
+![Pandas](https://img.shields.io/badge/Pandas-Data-black)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific-blue)
+![SQL](https://img.shields.io/badge/SQL-Query-lightgrey)
+
+---
+
+### 📊 Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-blue)
+
+---
+
+### 🧠 DSA & Math
+![Graphs](https://img.shields.io/badge/Graphs-Algorithms-green)
+![Trees](https://img.shields.io/badge/Trees-DataStructures-green)
+![Statistics](https://img.shields.io/badge/Statistics-Math-green)
+![Linear Algebra](https://img.shields.io/badge/Linear-Algebra-green)
 
 ---
 
