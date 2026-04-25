@@ -1,7 +1,7 @@
 <!-- Profile README · Srighanesh A S · srighanesh-sriv -->
 
 <h1 align="center">Hi, I'm Srighanesh A S 👋</h1>
-<h3 align="center">Data Science-focused engineer with strong foundations in mathematics, machine learning, and data-driven systems. Interested in building reliable and scalable solutions across engineering and healthcare domains.</h3>
+<h3 align="center">Data Science-focused engineer with a strong foundation in mathematics, machine learning, and data-driven systems. Experience in building end-to-end pipelines and applying statistical and optimization techniques to real-world problems in healthcare, transportation, and industrial domains.</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/srighaneshsrivathsan">
@@ -75,9 +75,9 @@ Biometric pipeline with **minutiae-based feature extraction** using Python and O
 
 📊 Selected Work
 
-- 📌 Built end-to-end ML pipeline for ASD detection with model comparison and evaluation  
-- 📌 Designed multi-modal transport optimization system using real-world GTFS data  
-- 📌 Developed data pipelines and dashboards for industrial applications at Siemens
+📌 Built end-to-end ML pipeline for ASD detection with model comparison and evaluation  
+📌 Designed multi-modal transport optimization system using real-world GTFS data  
+📌 Developed data pipelines and dashboards for industrial applications at Siemens
 
 ---
 
