@@ -21,13 +21,11 @@
 
 ## 🧠 About Me
 
-B.Tech in **Electrical & Computer Engineering** (SRM IST).  
-Currently a **Market Analyst at Siemens**, building automation pipelines and predictive models for railway electrification markets.
+Electrical and Computer Engineering graduate from SRM with a strong foundation in mathematics, machine learning, and data-driven systems developed through coursework and applied projects.
 
-I developed a strong foundation in **modelling, data-driven systems, and statistical reasoning**, shaping my approach to prediction, inference, and intelligent decision-making.
+Currently working as a Data Analyst at Siemens, building data pipelines, performing analysis, and developing decision-support tools for industrial applications.
 
-My long-term goal is to build **intelligent, trustworthy data-driven systems** that solve complex real-world problems across healthcare, infrastructure, and industrial domains.
-
+🎯 Aiming to deepen my expertise in statistical learning, optimization, and scalable data systems to solve real-world engineering problems.
 ---
 
 ## 🔬 Featured Projects
