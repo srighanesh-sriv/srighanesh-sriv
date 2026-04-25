@@ -25,7 +25,9 @@ Electrical and Computer Engineering graduate with a strong foundation in mathema
 
 Currently working as a Data Analyst at Siemens, building data pipelines, performing analysis, and developing decision-support tools for industrial applications.
 
-🎯Aiming to deepen my expertise in statistical learning, optimization, and scalable data systems to solve real-world engineering problems.
+🎯 Aiming to deepen my expertise in statistical learning, optimization, and scalable data systems to solve real-world engineering problems.
+
+
 ---
 
 ## 🔬 Featured Projects
