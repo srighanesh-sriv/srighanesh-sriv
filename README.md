@@ -51,7 +51,7 @@ End-to-end transit planning system built on real **GTFS datasets** spanning MTC 
 
 ### 🧠 ASD Early Detection — Clinical ML System
 `Healthcare ML · Academic Project · 2024`  
-🔗 [View Repository]([https://github.com/srighanesh-sriv/asd-detection-ml](https://github.com/srighanesh-sriv/ASD-Project))
+🔗 [View Repository](https://github.com/srighanesh-sriv/ASD-Project)
 
 Predictive ML pipeline for early Autism Spectrum Disorder detection in children under the age of 2 years. Granted **ethical clearance from SRM Medical Council** (valid till 2027)
 
