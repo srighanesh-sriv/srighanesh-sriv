@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <i>
-    Developed a data-driven approach to engineering through Probability & Statistics — focusing on modeling uncertainty, extracting insight from real-world data, and building systems grounded in statistical reasoning.
+    Developed a data-driven approach to engineering through Probability & Statistics, focusing on modeling uncertainty, extracting insight from real-world data, and building systems grounded in statistical reasoning.
   </i>
 </p>
 <p align="center">
