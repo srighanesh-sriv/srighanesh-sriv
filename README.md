@@ -37,6 +37,7 @@ B.Tech in Electrical & Computer Engineering from SRM IST. Currently at **Siemens
 
 ### 🚇 CMMT — Chennai Multi-Modal Transit Planner
 `Data Engineering · Personal Project · 2025`
+🔗 [View Repository](https://github.com/srighanesh-sriv/Chennai-Multi-Modal-Transport)
 
 End-to-end transit planning system built on real **GTFS datasets** spanning MTC buses, Chennai Metro, and suburban rail. Solves the multi-modal route optimisation problem with a Pareto-front approach — not just fastest, but best across *all* dimensions simultaneously.
 
@@ -66,6 +67,7 @@ Predictive ML pipeline for early Autism Spectrum Disorder detection in children 
 
 ### 🔍 Fingerprint Recognition System
 `Computer Vision · Academic Project · 2023`
+🔗 [View Repository](https://github.com/srighanesh-sriv/Fingerprint-Recognition)
 
 Biometric identification pipeline using minutiae-based feature extraction with Python and OpenCV. Designed for reliable matching under **degraded image conditions** — noisy scans, partial prints, and low resolution.
 
